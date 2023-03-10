@@ -9,7 +9,7 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("hello");
+        welcomeText.setText("hello + Mel");
     }
 
 }
